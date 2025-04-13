@@ -1,10 +1,10 @@
 # Nguyen Thai Minh (@thaiminh0911)
-### Hi 👋! My name is **Nguyen Thai Minh** and I'm **Vietnamese**
+Hi 👋! My name is **Nguyen Thai Minh** and I'm **Vietnamese**
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaiminh0911&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="Stats Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thaiminh0911&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="Stats Graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiminh0911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&hide_border=false" height="150" alt="Languages Graph"  />
 </div>
 
