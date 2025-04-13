@@ -25,18 +25,3 @@ Hi 👋! My name is **Nguyen Thai Minh** and I'm **Vietnamese**
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity Logo"  />
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaiminh0911/thaiminh0911/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaiminh0911/thaiminh0911/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thaiminh0911/thaiminh0911/output/pacman-contribution-graph.svg">
-</picture>
-
-###
